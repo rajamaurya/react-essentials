@@ -1,0 +1,9 @@
+.product-table{
+    width: 400px;
+    padding: 20px;
+    height: 500px;;
+    margin: auto;
+    position: absolute;
+    left:33%;
+    border: 1px solid blueviolet;
+}

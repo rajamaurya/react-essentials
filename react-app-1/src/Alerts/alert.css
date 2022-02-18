@@ -1,0 +1,16 @@
+.success-alert{
+    width: 300px;
+    height: auto;
+    border: 1px solid grey;
+    position: absolute;
+    top:-30%;
+    background-color: white;
+    color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+    box-shadow: 0px 1px 1px 1px green;
+    left: 140%;
+    padding: 20px;
+    text-align: center;
+    justify-content: center;
+    z-index: 9999;
+}

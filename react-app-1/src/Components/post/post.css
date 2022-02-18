@@ -1,0 +1,15 @@
+.post-container{
+    width: 100%;
+    display: flex;
+    border: 1px solid blue;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.post-sub{
+    width: 200px;
+    display: inline-block;
+    margin: 10px 10px;
+    border: 1px solid red;
+}

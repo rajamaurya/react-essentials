@@ -1,0 +1,25 @@
+.product-container{
+    width: 100%;
+    border: 1px solid gray;
+    padding: 10px;
+}
+.header{
+    width: 100%;
+    padding: 4px;
+    color:indigo;
+}
+ .left-panel{
+    width: 60%;
+    float: left;
+}
+.right-panel{
+    width: 40%;
+}
+li{
+    list-style-type: none;
+}
+.product-subheader{
+    width: 100%;
+    padding: 4px;
+    border: 1px solid green;
+}
